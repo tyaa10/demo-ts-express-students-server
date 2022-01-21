@@ -1,4 +1,4 @@
-*** Run commands: ***
-**npm i**
-**npm run-script build**
-**npm start**
+# Run commands
+## **npm i**
+## **npm run-script build**
+## **npm start**
