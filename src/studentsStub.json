@@ -1,0 +1,16 @@
+{"students": [{
+  "name": "Bill",
+  "age": 20,
+  "avgScore": 11.5,
+  "email": "bill2@test.com"
+}, {
+  "name": "John",
+  "age": 21,
+  "avgScore": 10,
+  "email": "john@test.com"
+}, {
+  "name": "Mary",
+  "age": 19,
+  "avgScore": 10.5,
+  "email": "mary@test.com"
+}]}
